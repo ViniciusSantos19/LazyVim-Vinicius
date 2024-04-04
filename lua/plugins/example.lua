@@ -217,6 +217,7 @@ return {
         "stylua",
         "typescript - language - server",
         "black",
+        "pyright",
       },
     },
   },
