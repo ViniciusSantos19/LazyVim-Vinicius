@@ -218,6 +218,7 @@ return {
         "typescript - language - server",
         "black",
         "pyright",
+        "jdtls",
       },
     },
   },
