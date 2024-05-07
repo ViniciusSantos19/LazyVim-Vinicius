@@ -15,3 +15,4 @@ map("x", "<C-a>", "ggVG", opts)
 
 -- Modo de Inserção
 map("i", "<C-a>", "<Esc>ggVG", opts)
+vim.keymap.set("n", "-", "<CMD>Oil<CR>", { desc = "Open parent directory" })
